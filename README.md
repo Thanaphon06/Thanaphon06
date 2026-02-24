@@ -1,12 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Thanaphon Sitthimat
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Thanaphon Sithhimat
 ============================================================================================================================================
 
-Programmer
+สวัสดีครับผม นาย ธนพล สิทธิมาศ 
+พึ่งจบจาก มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ วิทยาเขตปราจีนบุรี สาขา ITI
+
+Hi my name is Thanaphon Sitthimat 
 ----------
 
-สวัสดีค้าบบบ
 
-* 🌍  I'm based in Bankkok Thailand
+
+* 🌍  I'm based in Thailand
 * ✉️  You can contact me at [Thanaphons0602@gmail.com](mailto:Thanaphons0602@gmail.com)
 
 <p align="left">
