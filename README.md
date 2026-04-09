@@ -10,29 +10,27 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
 
 ## 🚀 Projects & Experience
 
-### 🌳 1. Autonomous Carbon Stock Monitor (AI & IoT)
-*An Integrated System for Precision Forestry & Environmental Monitoring*
+### 🌳 1. Carbon Stock Measurement in Mangrove Forests (AI & IoT)
 
-- **Description:** พัฒนาระบบ และ อุปกรณ์วัดปริมาณการกักเก็บคาร์บอนในป่าชายเลนโดยใช้ YOLO Model ในการตรวจจับและวิเคราะห์ภาพต้นไม้เพื่อคำนวณมวลชีวภาพ (Biomass) อัตโนมัติ โดยทำงานร่วมกับโมดูลกล้อง Raspberry Pi HD-Camera และ Raspberry Pi 5 พร้อมทั้งอุปกรร์สามารถทำงานได้ตามเวลาที่กำหนดโดยใช้งาน esp32 และ relay ในการกำหนดการทำงานตามเวลา และ มีระบบไฟฟ้าจากโซล่าเซล และ แบตเตอร์รี่
+- **Description:** Developed a system and hardware for measuring carbon sequestration in mangrove forests using a YOLO Model to automatically detect and analyze tree images for biomass calculation. The system integrates a Raspberry Pi HD-Camera with a Raspberry Pi 5. It is designed to operate on a scheduled basis, utilizing an ESP32 and Relay for time-controlled operations, powered by a Solar Cell and Battery system.
 - **Tech Stack:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logo=ultralytics&logoColor=black" /> <img src="https://img.shields.io/badge/Raspberry%20Pi%205-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" /> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 - **Key Features:**
-    - **Computer Vision:** ใช้ Python และ YOLOv11 บน Raspberry Pi 5 เพื่อตรวจจับชนิดต้นไม้และคำนวณเส้นผ่านศูนย์กลาง (DBH) เพื่อประมาณค่ามวลชีวภาพ (Biomass)
-    - **Energy :** ออกแบบระบบพลังงานสะอาดด้วย Solar Cell และ Battery Storage ควบคุมการจ่ายไฟผ่าน ESP32 และ Relay Module ไปยัง Raspberry Pi 5
-    - **Scheduled Automation:** ระบบตั้งเวลาการทำงานอัตโนมัติ (Deep Sleep/Wake-up) เพื่อการประหยัดพลังงาน
-    - **Data Integration:** เชื่อมต่อและส่งข้อมูลวิเคราะห์ผ่าน FastAPI เพื่อการจัดเก็บข้อมูล
+    - **Computer Vision:** Utilized Python and YOLOv11 on Raspberry Pi 5 to detect tree  and calculate Diameter at Breast Height (DBH) for biomass estimation.
+    - **Energy :** Designed a clean energy system using Solar Cells and Battery Storage, controlling power distribution via ESP32 and Relay Module to the Raspberry Pi 5.
+    - **Scheduled Automation:** Implemented an automated scheduling system (Deep Sleep/Wake-up) to maximize energy efficiency.
+    - **Data Integration:** Connected and transmitted analytical data through FastAPI for centralized data storage.
 
 ---
 
 ### 🧩 2. MicroBlocks Extensions & Hardware Tooling
-*Custom Library Development for Educational IoT Ecosystem*
 
-- **Description:** พัฒนาส่วนขยาย (Extensions) สำหรับแพลตฟอร์ม **MicroBlocks** เพื่อเพิ่มขีดความสามารถให้อุปกรณ์ IoT สำหรับสื่อการเรียนการสอน เพื่อควบคุม Hardware ผ่านการเขียนบล็อกคำสั่ง
+- **Description:** Developed extensions for the **MicroBlocks** platform to enhance the capabilities of IoT devices used as educational tools, enabling hardware control through block-based programming.
 - **Tech Stack:** <img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
 - **Key Features:**
-    - **Hardware Control Logic:**พัฒนาชุดคำสั่งควบคุมอุปกรณ์ด้วย MicroPython และ C++ พร้อมออกแบบหน้า Block-based UI ด้วย JavaScript
-    - **Reverse Engineering:** วิเคราะห์และแกะโครงสร้างโค้ดเดิม (Legacy Code) เพื่อนำมาพัฒนาต่อยอดและเพิ่มประสิทธิภาพการทำงานของ Library
-    - **Embedded Mastery:** ปรับแต่ง Firmware สำหรับบอร์ด ESP32, ESP8266 และ Arduino ให้ทำงานร่วมกับสภาพแวดล้อมของ MicroBlocks
-    - **Educational Innovation:** สร้างเครื่องมือที่เปลี่ยนโค้ดที่ซับซ้อนให้กลายเป็นบล็อกที่เข้าใจง่าย ช่วยให้ผู้เริ่มต้นเรียนรู้ IoT ได้รวดเร็วขึ้น
+    - **Hardware Control Logic:**Developed device control instruction sets using MicroPython and C++, while designing Block-based UI interfaces with JavaScript.
+    - **Reverse Engineering:** Analyzed and deconstructed legacy code structures to further develop and optimize library performance.
+    - **Embedded Mastery:** Customized firmware for ESP32, ESP8266, and Arduino boards to ensure seamless integration with the MicroBlocks environment.
+    - **Educational Innovation:** Created tools that transform complex code into easy-to-understand blocks, accelerating the IoT learning process for beginners.
 - **Repositories:**
     - [![BeetleCar Extension](https://img.shields.io/badge/BeetleCar_Ext-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Thanaphon06/beetlecar_extention)
     - [![Warp IoT Extension](https://img.shields.io/badge/Warp_IoT_Ext-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Thanaphon06/warp_IoT_extentionn)
@@ -42,48 +40,48 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
 
 ### 📱 1. Daily Word Spark
 
-- **Description:** พัฒนาแอปพลิเคชันเพื่อแก้ปัญหาการเรียนรู้คำศัพท์ภาษาอังกฤษ โดยรวบรวมคำศัพท์พื้นฐานที่สำคัญ 3,000 คำจาก **Oxford 3000™** มาไว้ในรูปแบบที่ฝึกฝนได้ง่ายในชีวิตประจำวัน
+- **Description:**Developed an application to solve English vocabulary learning challenges by collecting 3,000 essential words from **Oxford 3000™** into a format that is easy to practice in daily life.
 - ### 🛠️ Tech Stack & Languages
     - ![TypeScript](https://img.shields.io/badge/TypeScript-98.2%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
     - ![CSS](https://img.shields.io/badge/CSS-1.1%25-1572B6?style=flat-square&logo=css3&logoColor=white)
     - ![Other](https://img.shields.io/badge/Other-0.7%25-lightgrey?style=flat-square)
 
 - **ทักษะและเทคโนโลยีที่ได้เรียนรู้ (Skills & Learning):**
-    - **Modern Web & Mobile Development:** พัฒนาแอปพลิเคชันด้วย **React** และ **TypeScript** พร้อมเสริมประสิทธิภาพการแสดงผลด้วย **Tailwind CSS** และ **shadcn/ui**
-    - **Mobile Platform Integration:** เรียนรู้การใช้ **Capacitor** เพื่อแปลง Web Application ให้ทำงานบนระบบปฏิบัติการ **Android** 
-    - **Full-Stack Architecture:** ออกแบบโครงสร้างระบบที่รองรับการทำงานร่วมกับ **FastAPI (Backend)** และ **Firebase** สำหรับการจัดการข้อมูลผู้ใช้และระบบฐานข้อมูลคำศัพท์
-    - **Modern Tooling & Bundling:** ฝึกฝนการใช้ **Vite** เป็น Build Tool และการจัดการ Dependency ด้วย **Bun** เพื่อความรวดเร็วในการพัฒนาและส่งมอบซอฟต์แวร์
+    - **Modern Web & Mobile Development:** Developed the application using **React** and **TypeScript** enhancing UI performance with **Tailwind CSS** and **shadcn/ui**
+    - **Mobile Platform Integration:** Learned to use **Capacitor** to convert a Web Application to operate on the **Android** operating system.
+    - **Full-Stack Architecture:** Designed a system structure compatible with **FastAPI (Backend)** and **Firebase** สfor managing user data and vocabulary databases.
+    - **Modern Tooling & Bundling:** Practiced using **Vite** as a build tool and managing dependencies with **Bun** for rapid development and software delivery.
 
 **Repository:** [![Daily Word Spark](https://img.shields.io/badge/Daily_Word_Spark-GitHub-181717?style=flat-square&logo=github)](https://github.com/Thanaphon06/daily-word-spark)
 
 ### ❤️ 2. Heart Jar (Virtual Connection App)
 
-- **Description:** พัฒนาเว็บแอปพลิเคชันเชิง Interactive เพื่อส่งต่อความรู้สึกดีๆ ผ่าน "โหลหัวใจ" ออกแบบมาเพื่อสร้างประสบการณ์ที่น่าประทับใจผ่านอนิเมชั่น **ตั้งใจทำขึ้นเพื่อใช้ในงานแต่งงานของพี่ชาย**
+- **Description:** Developed an interactive web application to send good feelings through a virtual "Heart Jar," designed to create an impressive experience through animations. **Specially created for use at my brother's wedding.**
 - ### 🛠️ Tech Stack & Languages
     - ![TypeScript](https://img.shields.io/badge/TypeScript-94.5%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
     - ![CSS](https://img.shields.io/badge/CSS-3.8%25-1572B6?style=flat-square&logo=css3&logoColor=white)
     - ![HTML](https://img.shields.io/badge/HTML-1.7%25-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 - **ทักษะและเทคโนโลยีที่ได้เรียนรู้ (Skills & Learning):**
-    - **Animation & Transitions:** ฝึกฝนการใช้ CSS Transitions และ Framer Motion (หรือ React Transitions) เพื่อสร้างการเคลื่อนไหวของหัวใจและองค์ประกอบต่างๆ ในแอปให้ดูมีชีวิตชีวา
-    - **State Management:** จัดการสถานะการโต้ตอบภายในแอปพลิเคชันเพื่อให้การแสดงผลสอดคล้องกับการกดหรือการเลือกของผู้ใช้งานอย่างลื่นไหล
-    - **Firebase Backend Integration:** เรียนรู้การจัดการฐานข้อมูลแบบ NoSQL ผ่าน **Cloud Firestore** เพื่อจัดเก็บและดึงข้อมูลการโต้ตอบของผู้ใช้งานแบบ Real-time ช่วยให้การส่งหัวใจแสดงผลได้ทันทีโดยไม่ต้อง Refresh หน้าจอ
+    - **Animation & Transitions:** Practiced using CSS Transitions and Framer Motion (or React Transitions) to create lifelike movements for hearts and various app elements.
+    - **State Management:** Managed interactive states within the application to ensure visual synchronization with user clicks and selections.
+    - **Firebase Backend Integration:** Learned to manage NoSQL databases through **Cloud Firestore** for real-time storage and retrieval of user interactions, enabling heart transfers to display instantly without page refreshes.
   
 **Repository:** [![Heart Jar](https://img.shields.io/badge/Heart_Jar-GitHub-181717?style=flat-square&logo=github)](https://github.com/Thanaphon06/heart_jar)
 
 ### 🧠 3. Logic & Algorithm Practice (Java)
 
-- **Description:** ผมชอบที่จะตั้งโจทย์ เพื่อฝึกฝนทักษะความคิด logic ตัวเองในเวลาว่าง โดยจะใช้ภาษา java ในการเขียนฝึก
+- **Description:** I enjoy creating challenges to practice my logical thinking skills in my free time, using the **Java** language for practice.
   
 - ### 🛠️ Tech Stack & Languages
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 - ![Algorithm](https://img.shields.io/badge/Focus-Algorithm_&_Logic-blue?style=flat-square)
 
 **ทักษะและเทคโนโลยีที่ได้เรียนรู้ (Skills & Learning):**
-- **Object-Oriented Programming (OOP):** ฝึกฝนการนำแนวคิดเรื่อง Class, Object, Inheritance และ Polymorphism มาใช้ในการจัดระเบียบโค้ดให้เป็นสัดส่วน
-- **Problem-Solving Skills:** พัฒนาทักษะการคิดอย่างเป็นระบบผ่านการแก้โจทย์อัลกอริทึมและการจัดการโครงสร้างข้อมูล (Data Structures) พื้นฐาน
-- **Clean Code Practices:** เรียนรู้การเขียนโค้ดภาษา Java ให้มีความอ่านง่าย (Readability) และมีการจัดการหน่วยความจำที่เหมาะสม
-- **Logical Thinking:** ฝึกการวิเคราะห์เงื่อนไขที่ซับซ้อนและเขียนโปรแกรมเพื่อแก้ไขปัญหาตามโจทย์ที่ตั้งขึ้นเองหรือจากแหล่งเรียนรู้ภายนอก
+- **Object-Oriented Programming (OOP):** Practiced implementing concepts of Class, Object, Inheritance, and Polymorphism to organize code proportionally.
+- **Problem-Solving Skills:** Developed systematic thinking skills through solving algorithmic challenges and managing basic Data Structures.
+- **Clean Code Practices:** Learned to write Java code with high readability and appropriate memory management.
+- **Logical Thinking:** Practiced analyzing complex conditions and writing programs to solve self-created challenges or those from external learning resources.
 
 **Repository:** [![Practice Java](https://img.shields.io/badge/Practice_Java-GitHub-181717?style=flat-square&logo=github)](https://github.com/Thanaphon06/practice_jav)
 ## 🛠️ SKILL
