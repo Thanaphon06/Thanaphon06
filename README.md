@@ -1,13 +1,9 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Thanaphon Sithhimat
 ============================================================================================================================================
 
-สวัสดีครับผม นาย ธนพล สิทธิมาศ 
-พึ่งจบจาก มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ วิทยาเขตปราจีนบุรี สาขา ITI
+A dedicated Final-Year Information Technology student at King Mongkut's University of Technology North Bangkok (Prachinburi Campus). I possess a deep passion for programming and a logic-driven approach to complex problem-solaving. With over 1.5 years of combined internship and project-based experience in IoT, AI, and Software Development, I am highly focused and driven—often losing track of time when immersed in building innovative solutions and tackling technical challenges.
 
-Hi my name is Thanaphon Sitthimat 
 ----------
-
-
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [Thanaphons0602@gmail.com](mailto:Thanaphons0602@gmail.com)
