@@ -68,6 +68,7 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
 - **Animation & Transitions:** ฝึกฝนการใช้ CSS Transitions และ Framer Motion (หรือ React Transitions) เพื่อสร้างการเคลื่อนไหวของหัวใจและองค์ประกอบต่างๆ ในแอปให้ดูมีชีวิตชีวา
 - **State Management:** จัดการสถานะการโต้ตอบภายในแอปพลิเคชันเพื่อให้การแสดงผลสอดคล้องกับการกดหรือการเลือกของผู้ใช้งานอย่างลื่นไหล
 - **Firebase Backend Integration:** เรียนรู้การจัดการฐานข้อมูลแบบ NoSQL ผ่าน **Cloud Firestore** เพื่อจัดเก็บและดึงข้อมูลการโต้ตอบของผู้ใช้งานแบบ Real-time ช่วยให้การส่งหัวใจแสดงผลได้ทันทีโดยไม่ต้อง Refresh หน้าจอ
+  
 **Repository:** [![Heart Jar](https://img.shields.io/badge/Heart_Jar-GitHub-181717?style=flat-square&logo=github)](https://github.com/Thanaphon06/heart_jar)
 
 ## 🛠️ SKILL
