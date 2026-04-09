@@ -46,7 +46,7 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
     - ![CSS](https://img.shields.io/badge/CSS-1.1%25-1572B6?style=flat-square&logo=css3&logoColor=white)
     - ![Other](https://img.shields.io/badge/Other-0.7%25-lightgrey?style=flat-square)
 
-- **ทักษะและเทคโนโลยีที่ได้เรียนรู้ (Skills & Learning):**
+- **Skills & Learning:**
     - **Modern Web & Mobile Development:** Developed the application using **React** and **TypeScript** enhancing UI performance with **Tailwind CSS** and **shadcn/ui**
     - **Mobile Platform Integration:** Learned to use **Capacitor** to convert a Web Application to operate on the **Android** operating system.
     - **Full-Stack Architecture:** Designed a system structure compatible with **FastAPI (Backend)** and **Firebase** สfor managing user data and vocabulary databases.
@@ -62,7 +62,7 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
     - ![CSS](https://img.shields.io/badge/CSS-3.8%25-1572B6?style=flat-square&logo=css3&logoColor=white)
     - ![HTML](https://img.shields.io/badge/HTML-1.7%25-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-- **ทักษะและเทคโนโลยีที่ได้เรียนรู้ (Skills & Learning):**
+- **Skills & Learning:**
     - **Animation & Transitions:** Practiced using CSS Transitions and Framer Motion (or React Transitions) to create lifelike movements for hearts and various app elements.
     - **State Management:** Managed interactive states within the application to ensure visual synchronization with user clicks and selections.
     - **Firebase Backend Integration:** Learned to manage NoSQL databases through **Cloud Firestore** for real-time storage and retrieval of user interactions, enabling heart transfers to display instantly without page refreshes.
@@ -77,7 +77,7 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 - ![Algorithm](https://img.shields.io/badge/Focus-Algorithm_&_Logic-blue?style=flat-square)
 
-**ทักษะและเทคโนโลยีที่ได้เรียนรู้ (Skills & Learning):**
+**Skills & Learning:**
 - **Object-Oriented Programming (OOP):** Practiced implementing concepts of Class, Object, Inheritance, and Polymorphism to organize code proportionally.
 - **Problem-Solving Skills:** Developed systematic thinking skills through solving algorithmic challenges and managing basic Data Structures.
 - **Clean Code Practices:** Learned to write Java code with high readability and appropriate memory management.
