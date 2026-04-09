@@ -40,7 +40,7 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
 ---
 ## ⌚️ Free Time Project
 
-### 📱 2. Daily Word Spark
+### 📱 1. Daily Word Spark
 
 - **Description:** พัฒนาแอปพลิเคชันเพื่อแก้ปัญหาการเรียนรู้คำศัพท์ภาษาอังกฤษ โดยรวบรวมคำศัพท์พื้นฐานที่สำคัญ 3,000 คำจาก **Oxford 3000™** มาไว้ในรูปแบบที่ฝึกฝนได้ง่ายในชีวิตประจำวัน
 - ### 🛠️ Tech Stack & Languages
@@ -56,7 +56,7 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
 
 **Repository:** [![Daily Word Spark](https://img.shields.io/badge/Daily_Word_Spark-GitHub-181717?style=flat-square&logo=github)](https://github.com/Thanaphon06/daily-word-spark)
 
-### ❤️ 3. Heart Jar (Virtual Connection App)
+### ❤️ 2. Heart Jar (Virtual Connection App)
 
 - **Description:** พัฒนาเว็บแอปพลิเคชันเชิง Interactive เพื่อส่งต่อความรู้สึกดีๆ ผ่าน "โหลหัวใจ" ออกแบบมาเพื่อสร้างประสบการณ์ที่น่าประทับใจผ่านอนิเมชั่น **ตั้งใจทำขึ้นเพื่อใช้ในงานแต่งงานของพี่ชาย**
 - ### 🛠️ Tech Stack & Languages
@@ -71,6 +71,21 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
   
 **Repository:** [![Heart Jar](https://img.shields.io/badge/Heart_Jar-GitHub-181717?style=flat-square&logo=github)](https://github.com/Thanaphon06/heart_jar)
 
+### 🧠 3. Logic & Algorithm Practice (Java)
+
+- **Description:** ผมชอบที่จะตั้งโจทย์ เพื่อฝึกฝนทักษะความคิด logic ตัวเองในเวลาว่าง โดยจะใช้ภาษา java ในการเขียนฝึก
+- 
+- ### 🛠️ Tech Stack & Languages
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+- ![Algorithm](https://img.shields.io/badge/Focus-Algorithm_&_Logic-blue?style=flat-square)
+
+**ทักษะและเทคโนโลยีที่ได้เรียนรู้ (Skills & Learning):**
+- **Object-Oriented Programming (OOP):** ฝึกฝนการนำแนวคิดเรื่อง Class, Object, Inheritance และ Polymorphism มาใช้ในการจัดระเบียบโค้ดให้เป็นสัดส่วน
+- **Problem-Solving Skills:** พัฒนาทักษะการคิดอย่างเป็นระบบผ่านการแก้โจทย์อัลกอริทึมและการจัดการโครงสร้างข้อมูล (Data Structures) พื้นฐาน
+- **Clean Code Practices:** เรียนรู้การเขียนโค้ดภาษา Java ให้มีความอ่านง่าย (Readability) และมีการจัดการหน่วยความจำที่เหมาะสม
+- **Logical Thinking:** ฝึกการวิเคราะห์เงื่อนไขที่ซับซ้อนและเขียนโปรแกรมเพื่อแก้ไขปัญหาตามโจทย์ที่ตั้งขึ้นเองหรือจากแหล่งเรียนรู้ภายนอก
+
+**Repository:** [![Practice Java](https://img.shields.io/badge/Practice_Java-GitHub-181717?style=flat-square&logo=github)](https://github.com/Thanaphon06/practice_jav)
 ## 🛠️ SKILL
 
 ### 💻 **Languages & Core**
