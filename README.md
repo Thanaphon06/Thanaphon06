@@ -9,7 +9,6 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
 * ✉️  You can contact me at [Thanaphons0602@gmail.com](mailto:Thanaphons0602@gmail.com)
 
 ## 🚀 Projects & Experience
-## 🚀 Featured Projects
 
 ### 🌳 1. Autonomous Carbon Stock Monitor (AI & IoT)
 *An Integrated System for Precision Forestry & Environmental Monitoring*
