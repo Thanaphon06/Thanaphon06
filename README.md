@@ -47,6 +47,7 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
 - ![TypeScript](https://img.shields.io/badge/TypeScript-98.2%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS-1.1%25-1572B6?style=flat-square&logo=css3&logoColor=white)
 - ![Other](https://img.shields.io/badge/Other-0.7%25-lightgrey?style=flat-square)
+
 **ทักษะและเทคโนโลยีที่ได้เรียนรู้ (Skills & Learning):**
 - **Modern Web & Mobile Development:** พัฒนาแอปพลิเคชันด้วย **React** และ **TypeScript** พร้อมเสริมประสิทธิภาพการแสดงผลด้วย **Tailwind CSS** และ **shadcn/ui**
 - **Mobile Platform Integration:** เรียนรู้การใช้ **Capacitor** เพื่อแปลง Web Application ให้ทำงานบนระบบปฏิบัติการ **Android** 
