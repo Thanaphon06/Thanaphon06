@@ -9,50 +9,36 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
 * ✉️  You can contact me at [Thanaphons0602@gmail.com](mailto:Thanaphons0602@gmail.com)
 
 ## 🚀 Projects & Experience
+## 🚀 Featured Projects
 
-### 🌳 1. Carbon Stock Measurement in Mangrove Forests
-*AI-Powered IoT Solution for Environmental Monitoring*
-- **Description:** พัฒนาระบบวัดปริมาณการกักเก็บคาร์บอนในป่าชายเลนโดยใช้ YOLO Model ในการตรวจจับและวิเคราะห์ภาพต้นไม้เพื่อคำนวณมวลชีวภาพ (Biomass) อัตโนมัติ
-- **Tech Stack:** - <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> 
-    - <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logo=ultralytics&logoColor=black" />
-    - <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
-    - <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+### 🌳 1. Autonomous Carbon Stock Monitor (AI & IoT)
+*An Integrated System for Precision Forestry & Environmental Monitoring*
+
+- **Description:** ระบบอัจฉริยะสำหรับวัดการกักเก็บคาร์บอนในป่าชายเลนแบบอัตโนมัติ โดยรวมพลังของ **Edge AI (YOLOv11)** เข้ากับระบบ **Green Energy** เพื่อการทำงานในพื้นที่ห่างไกลได้ตลอด 24 ชม.
+- **Tech Stack:** - <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logo=ultralytics&logoColor=black" /> <img src="https://img.shields.io/badge/Raspberry%20Pi%205-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" /> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 - **Key Features:**
-    - Real-time Object Detection สำหรับระบุชนิดและขนาดของต้นไม้
-    - ระบบส่งข้อมูลไร้สายระหว่างเซนเซอร์ ESP32 และหน่วยประมวลผลกลาง
-    - อัลกอริทึมคำนวณ Carbon Stock ที่แม่นยำเพื่อใช้ในงานวิจัยทางสิ่งแวดล้อม
+    - **Edge Computer Vision:** ใช้ Python และ YOLOv11 บน Raspberry Pi 5 เพื่อตรวจจับชนิดต้นไม้และคำนวณเส้นผ่านศูนย์กลาง (DBH) เพื่อประมาณค่ามวลชีวภาพ (Biomass)
+    - **Energy Management:** ออกแบบระบบพลังงานสะอาดด้วย Solar Cell และ Battery Storage ควบคุมการจ่ายไฟผ่าน ESP32 และ Relay Module
+    - **Scheduled Automation:** ระบบตั้งเวลาการทำงานอัตโนมัติ (Deep Sleep/Wake-up) เพื่อการประหยัดพลังงานสูงสุด
+    - **Data Integration:** เชื่อมต่อและส่งข้อมูลวิเคราะห์ผ่าน FastAPI เพื่อการจัดเก็บข้อมูลอย่างเป็นระบบ
+- **Links:** [![GitHub](https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/REPO_NAME)
 
 ---
 
-### 📱 2. Daily Word Spark
-*Personalized Learning Mobile Application*
-- **Description:** แอปพลิเคชันส่งเสริมการเรียนรู้คำศัพท์รายวัน ออกแบบมาเพื่อช่วยให้ผู้ใช้จดจำคำศัพท์ใหม่ๆ ผ่านระบบแจ้งเตือนอัจฉริยะ
-- **Tech Stack:** - <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-    - <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-    - <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+### 🧩 2. Custom Extensions for MicroBlocks
+*Hardware Ecosystem Tooling & Firmware Development*
+
+- **Description:** พัฒนาส่วนขยาย (Extensions) สำหรับแพลตฟอร์ม **MicroBlocks** เพื่อเพิ่มขีดความสามารถให้อุปกรณ์ IoT สำหรับสื่อการเรียนการสอน เน้นการเขียนโปรแกรมระดับ Low-level เพื่อควบคุม Hardware
+- **Tech Stack:** - <img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
 - **Key Features:**
-    - ระบบ User Authentication และ Cloud Database ด้วย Firebase
-    - Backend API ประสิทธิภาพสูงสำหรับการจัดการฐานข้อมูลคำศัพท์
-    - Daily Push Notifications เพื่อกระตุ้นการเรียนรู้อย่างสม่ำเสมอ
+    - **Cross-Language Development:** พัฒนาฟังก์ชันภายในด้วย MicroPython/C++ และสร้าง User Interface แบบ Block-based ด้วย JavaScript
+    - **Reverse Engineering:** วิเคราะห์และแกะโค้ดโครงสร้างเดิม (Legacy Code) เพื่อพัฒนาต่อยอดและแก้ไขบั๊กในระบบนิเวศของ MicroBlocks
+    - **Embedded Mastery:** ออกแบบและปรับแต่ง Firmware สำหรับบอร์ด ESP32, ESP8266 และ Arduino ให้ทำงานร่วมกับบล็อกคำสั่งได้อย่างราบรื่น
+    - **Educational Tooling:** สร้างเครื่องมือที่ช่วยให้การเรียนรู้การเขียนโปรแกรมบนอุปกรณ์ IoT เข้าถึงได้ง่ายและมีประสิทธิภาพมากขึ้น
+- **Links:** [![GitHub](https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/REPO_NAME)
 
 ---
 
-### 🎮 3. Game Development Projects (Unity)
-*Logic-Driven Interactive Experiences*
-- **Description:** โปรเจคพัฒนาเกมที่เน้นการฝึกฝน Object-Oriented Programming (OOP) และฟิสิกส์ในตัวเกม
-- **Tech Stack:** - <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black" />
-    - <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-- **Key Features:**
-    - การออกแบบ Game Loop และ State Machines ที่ซับซ้อน
-    - การเพิ่มประสิทธิภาพ (Optimization) เพื่อให้เกมรันได้อย่างลื่นไหลบนหลายแพลตฟอร์ม
-
----
-
-## 📊 GitHub Contributions
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" />
-</p>
 ### 💻 **Languages & Core**
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>
