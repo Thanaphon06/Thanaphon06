@@ -43,13 +43,33 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
 ### 📱 2. Daily Word Spark
 
 - **Description:** พัฒนาแอปพลิเคชันเพื่อแก้ปัญหาการเรียนรู้คำศัพท์ภาษาอังกฤษ โดยรวบรวมคำศัพท์พื้นฐานที่สำคัญ 3,000 คำจาก **Oxford 3000™** มาไว้ในรูปแบบที่ฝึกฝนได้ง่ายในชีวิตประจำวัน
+- ### 🛠️ Tech Stack & Languages
+<p align="left">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwind CSS" title="Tailwind CSS" width="36" height="36" />
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" title="Vite" width="36" height="36" />
+  </a>
+</p>
+
+**Language Composition:**
+- ![TypeScript](https://img.shields.io/badge/TypeScript-98.2%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-1.1%25-1572B6?style=flat-square&logo=css3&logoColor=white)
+- ![Other](https://img.shields.io/badge/Other-0.7%25-lightgrey?style=flat-square)
 **ทักษะและเทคโนโลยีที่ได้เรียนรู้ (Skills & Learning):**
 - **Modern Web & Mobile Development:** พัฒนาแอปพลิเคชันด้วย **React** และ **TypeScript** พร้อมเสริมประสิทธิภาพการแสดงผลด้วย **Tailwind CSS** และ **shadcn/ui**
 - **Mobile Platform Integration:** เรียนรู้การใช้ **Capacitor** เพื่อแปลง Web Application ให้ทำงานบนระบบปฏิบัติการ **Android** 
 - **Full-Stack Architecture:** ออกแบบโครงสร้างระบบที่รองรับการทำงานร่วมกับ **FastAPI (Backend)** และ **Firebase** สำหรับการจัดการข้อมูลผู้ใช้และระบบฐานข้อมูลคำศัพท์
 - **Modern Tooling & Bundling:** ฝึกฝนการใช้ **Vite** เป็น Build Tool และการจัดการ Dependency ด้วย **Bun** เพื่อความรวดเร็วในการพัฒนาและส่งมอบซอฟต์แวร์
 
-**Repository:** - [![Daily Word Spark](https://img.shields.io/badge/Daily_Word_Spark-GitHub-181717?style=flat-square&logo=github)](https://github.com/Thanaphon06/daily-word-spark)
+**Repository:** [![Daily Word Spark](https://img.shields.io/badge/Daily_Word_Spark-GitHub-181717?style=flat-square&logo=github)](https://github.com/Thanaphon06/daily-word-spark)
 
 ### 💻 **Languages & Core**
 <p align="left">
