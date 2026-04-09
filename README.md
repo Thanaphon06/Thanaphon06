@@ -38,8 +38,8 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
     - **Reverse Engineering:** วิเคราะห์และแกะโครงสร้างโค้ดเดิม (Legacy Code) เพื่อนำมาพัฒนาต่อยอดและเพิ่มประสิทธิภาพการทำงานของ Library
     - **Embedded Mastery:** ปรับแต่ง Firmware สำหรับบอร์ด ESP32, ESP8266 และ Arduino ให้ทำงานร่วมกับสภาพแวดล้อมของ MicroBlocks ได้อย่างสมบูรณ์
     - **Educational Innovation:** สร้างเครื่องมือที่เปลี่ยนโค้ดที่ซับซ้อนให้กลายเป็นบล็อกที่เข้าใจง่าย ช่วยให้ผู้เริ่มต้นเรียนรู้ IoT ได้รวดเร็วขึ้น
-- **Repositories:** - [![BeetleCar Extension](https://img.shields.io/badge/BeetleCar_Ext-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Thanaphon06/beetlecar_extention)
-    - [![Warp IoT Extension](https://img.shields.io/badge/Warp_IoT_Ext-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Thanaphon06/warp_IoT_extentionn)
+- **Repositories:** [![BeetleCar Extension](https://img.shields.io/badge/BeetleCar_Ext-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Thanaphon06/beetlecar_extention)
+- [![Warp IoT Extension](https://img.shields.io/badge/Warp_IoT_Ext-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Thanaphon06/warp_IoT_extentionn)
 
 ---
 
