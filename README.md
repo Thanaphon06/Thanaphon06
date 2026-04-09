@@ -25,17 +25,21 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
 
 ---
 
-### 🧩 2. Custom Extensions for MicroBlocks
-*Hardware Ecosystem Tooling & Firmware Development*
+### 🧩 2. MicroBlocks Extensions & Hardware Tooling
+*Custom Library Development for Educational IoT Ecosystem*
 
-- **Description:** พัฒนาส่วนขยาย (Extensions) สำหรับแพลตฟอร์ม **MicroBlocks** เพื่อเพิ่มขีดความสามารถให้อุปกรณ์ IoT สำหรับสื่อการเรียนการสอน เน้นการเขียนโปรแกรมระดับ Low-level เพื่อควบคุม Hardware
-- **Tech Stack:** - <img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+- **Description:** พัฒนาส่วนขยาย (Extensions) สำหรับแพลตฟอร์ม **MicroBlocks** เพื่อเพิ่มขีดความสามารถให้อุปกรณ์ IoT สำหรับสื่อการเรียนการสอน เน้นการเขียนโปรแกรมระดับ Low-level เพื่อควบคุม Hardware ผ่านการเขียนบล็อกคำสั่ง
+- **Tech Stack:** - <img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white" /> 
+    - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> 
+    - <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> 
+    - <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
 - **Key Features:**
-    - **Cross-Language Development:** พัฒนาฟังก์ชันภายในด้วย MicroPython/C++ และสร้าง User Interface แบบ Block-based ด้วย JavaScript
-    - **Reverse Engineering:** วิเคราะห์และแกะโค้ดโครงสร้างเดิม (Legacy Code) เพื่อพัฒนาต่อยอดและแก้ไขบั๊กในระบบนิเวศของ MicroBlocks
-    - **Embedded Mastery:** ออกแบบและปรับแต่ง Firmware สำหรับบอร์ด ESP32, ESP8266 และ Arduino ให้ทำงานร่วมกับบล็อกคำสั่งได้อย่างราบรื่น
-    - **Educational Tooling:** สร้างเครื่องมือที่ช่วยให้การเรียนรู้การเขียนโปรแกรมบนอุปกรณ์ IoT เข้าถึงได้ง่ายและมีประสิทธิภาพมากขึ้น
-- **Links:** [![GitHub](https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME/REPO_NAME)
+    - **Cross-Language Development:** ออกแบบฟังก์ชันการทำงานเบื้องหลังด้วย MicroPython/C++ และสร้างอินเตอร์เฟซบล็อกคำสั่ง (Block-based UI) ด้วย JavaScript
+    - **Reverse Engineering:** วิเคราะห์และแกะโครงสร้างโค้ดเดิม (Legacy Code) เพื่อนำมาพัฒนาต่อยอดและเพิ่มประสิทธิภาพการทำงานของ Library
+    - **Embedded Mastery:** ปรับแต่ง Firmware สำหรับบอร์ด ESP32, ESP8266 และ Arduino ให้ทำงานร่วมกับสภาพแวดล้อมของ MicroBlocks ได้อย่างสมบูรณ์
+    - **Educational Innovation:** สร้างเครื่องมือที่เปลี่ยนโค้ดที่ซับซ้อนให้กลายเป็นบล็อกที่เข้าใจง่าย ช่วยให้ผู้เริ่มต้นเรียนรู้ IoT ได้รวดเร็วขึ้น
+- **Repositories:** - [![BeetleCar Extension](https://img.shields.io/badge/BeetleCar_Ext-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Thanaphon06/beetlecar_extention)
+    - [![Warp IoT Extension](https://img.shields.io/badge/Warp_IoT_Ext-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Thanaphon06/warp_IoT_extentionn)
 
 ---
 
