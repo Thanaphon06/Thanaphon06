@@ -38,7 +38,7 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
     - [![Warp IoT Extension](https://img.shields.io/badge/Warp_IoT_Ext-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Thanaphon06/warp_IoT_extentionn)
 
 ---
-## ⌚️ Free-Time Project
+## ⌚️ Free Time Project
 
 ### 📱 2. Daily Word Spark
 
