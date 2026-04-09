@@ -14,7 +14,7 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
 *An Integrated System for Precision Forestry & Environmental Monitoring*
 
 - **Description:** พัฒนาระบบ และ อุปกรณ์วัดปริมาณการกักเก็บคาร์บอนในป่าชายเลนโดยใช้ YOLO Model ในการตรวจจับและวิเคราะห์ภาพต้นไม้เพื่อคำนวณมวลชีวภาพ (Biomass) อัตโนมัติ โดยทำงานร่วมกับโมดูลกล้อง Raspberry Pi HD-Camera และ Raspberry Pi 5 พร้อมทั้งอุปกรร์สามารถทำงานได้ตามเวลาที่กำหนดโดยใช้งาน esp32 และ relay ในการกำหนดการทำงานตามเวลา และ มีระบบไฟฟ้าจากโซล่าเซล และ แบตเตอร์รี่
-- **Tech Stack:** - <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logo=ultralytics&logoColor=black" /> <img src="https://img.shields.io/badge/Raspberry%20Pi%205-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" /> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+- **Tech Stack:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logo=ultralytics&logoColor=black" /> <img src="https://img.shields.io/badge/Raspberry%20Pi%205-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" /> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 - **Key Features:**
     - **Computer Vision:** ใช้ Python และ YOLOv11 บน Raspberry Pi 5 เพื่อตรวจจับชนิดต้นไม้และคำนวณเส้นผ่านศูนย์กลาง (DBH) เพื่อประมาณค่ามวลชีวภาพ (Biomass)
     - **Energy Management:** ออกแบบระบบพลังงานสะอาดด้วย Solar Cell และ Battery Storage ควบคุมการจ่ายไฟผ่าน ESP32 และ Relay Module ไปยัง Raspberry Pi 5
@@ -27,10 +27,7 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
 *Custom Library Development for Educational IoT Ecosystem*
 
 - **Description:** พัฒนาส่วนขยาย (Extensions) สำหรับแพลตฟอร์ม **MicroBlocks** เพื่อเพิ่มขีดความสามารถให้อุปกรณ์ IoT สำหรับสื่อการเรียนการสอน เพื่อควบคุม Hardware ผ่านการเขียนบล็อกคำสั่ง
-- **Tech Stack:** - <img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white" /> 
-    - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> 
-    - <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> 
-    - <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+- **Tech Stack:** <img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
 - **Key Features:**
     - **Cross-Language Development:** ออกแบบฟังก์ชันการทำงานเบื้องหลังด้วย MicroPython/C++ และสร้างอินเตอร์เฟซบล็อกคำสั่ง (Block-based UI) ด้วย JavaScript
     - **Reverse Engineering:** วิเคราะห์และแกะโครงสร้างโค้ดเดิม (Legacy Code) เพื่อนำมาพัฒนาต่อยอดและเพิ่มประสิทธิภาพการทำงานของ Library
