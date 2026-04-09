@@ -38,6 +38,18 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
     - [![Warp IoT Extension](https://img.shields.io/badge/Warp_IoT_Ext-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Thanaphon06/warp_IoT_extentionn)
 
 ---
+## Free-Time Project
+
+### 📱 2. Daily Word Spark
+
+- **Description:** พัฒนาแอปพลิเคชันเพื่อแก้ปัญหาการเรียนรู้คำศัพท์ภาษาอังกฤษ โดยรวบรวมคำศัพท์พื้นฐานที่สำคัญ 3,000 คำจาก **Oxford 3000™** มาไว้ในรูปแบบที่ฝึกฝนได้ง่ายในชีวิตประจำวัน
+**ทักษะและเทคโนโลยีที่ได้เรียนรู้ (Skills & Learning):**
+- **Modern Web & Mobile Development:** พัฒนาแอปพลิเคชันด้วย **React** และ **TypeScript** พร้อมเสริมประสิทธิภาพการแสดงผลด้วย **Tailwind CSS** และ **shadcn/ui**
+- **Mobile Platform Integration:** เรียนรู้การใช้ **Capacitor** เพื่อแปลง Web Application ให้ทำงานบนระบบปฏิบัติการ **Android** 
+- **Full-Stack Architecture:** ออกแบบโครงสร้างระบบที่รองรับการทำงานร่วมกับ **FastAPI (Backend)** และ **Firebase** สำหรับการจัดการข้อมูลผู้ใช้และระบบฐานข้อมูลคำศัพท์
+- **Modern Tooling & Bundling:** ฝึกฝนการใช้ **Vite** เป็น Build Tool และการจัดการ Dependency ด้วย **Bun** เพื่อความรวดเร็วในการพัฒนาและส่งมอบซอฟต์แวร์
+
+**Repository:** - [![Daily Word Spark](https://img.shields.io/badge/Daily_Word_Spark-GitHub-181717?style=flat-square&logo=github)](https://github.com/Thanaphon06/daily-word-spark)
 
 ### 💻 **Languages & Core**
 <p align="left">
