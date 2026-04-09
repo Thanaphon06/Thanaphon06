@@ -7,6 +7,52 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [Thanaphons0602@gmail.com](mailto:Thanaphons0602@gmail.com)
+
+## 🚀 Projects & Experience
+
+### 🌳 1. Carbon Stock Measurement in Mangrove Forests
+*AI-Powered IoT Solution for Environmental Monitoring*
+- **Description:** พัฒนาระบบวัดปริมาณการกักเก็บคาร์บอนในป่าชายเลนโดยใช้ YOLO Model ในการตรวจจับและวิเคราะห์ภาพต้นไม้เพื่อคำนวณมวลชีวภาพ (Biomass) อัตโนมัติ
+- **Tech Stack:** - <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> 
+    - <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logo=ultralytics&logoColor=black" />
+    - <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
+    - <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+- **Key Features:**
+    - Real-time Object Detection สำหรับระบุชนิดและขนาดของต้นไม้
+    - ระบบส่งข้อมูลไร้สายระหว่างเซนเซอร์ ESP32 และหน่วยประมวลผลกลาง
+    - อัลกอริทึมคำนวณ Carbon Stock ที่แม่นยำเพื่อใช้ในงานวิจัยทางสิ่งแวดล้อม
+
+---
+
+### 📱 2. Daily Word Spark
+*Personalized Learning Mobile Application*
+- **Description:** แอปพลิเคชันส่งเสริมการเรียนรู้คำศัพท์รายวัน ออกแบบมาเพื่อช่วยให้ผู้ใช้จดจำคำศัพท์ใหม่ๆ ผ่านระบบแจ้งเตือนอัจฉริยะ
+- **Tech Stack:** - <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    - <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    - <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+- **Key Features:**
+    - ระบบ User Authentication และ Cloud Database ด้วย Firebase
+    - Backend API ประสิทธิภาพสูงสำหรับการจัดการฐานข้อมูลคำศัพท์
+    - Daily Push Notifications เพื่อกระตุ้นการเรียนรู้อย่างสม่ำเสมอ
+
+---
+
+### 🎮 3. Game Development Projects (Unity)
+*Logic-Driven Interactive Experiences*
+- **Description:** โปรเจคพัฒนาเกมที่เน้นการฝึกฝน Object-Oriented Programming (OOP) และฟิสิกส์ในตัวเกม
+- **Tech Stack:** - <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black" />
+    - <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+- **Key Features:**
+    - การออกแบบ Game Loop และ State Machines ที่ซับซ้อน
+    - การเพิ่มประสิทธิภาพ (Optimization) เพื่อให้เกมรันได้อย่างลื่นไหลบนหลายแพลตฟอร์ม
+
+---
+
+## 📊 GitHub Contributions
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 ### 💻 **Languages & Core**
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>
