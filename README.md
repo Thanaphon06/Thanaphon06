@@ -56,6 +56,20 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
 
 **Repository:** [![Daily Word Spark](https://img.shields.io/badge/Daily_Word_Spark-GitHub-181717?style=flat-square&logo=github)](https://github.com/Thanaphon06/daily-word-spark)
 
+### ❤️ 3. Heart Jar (Virtual Connection App)
+
+- **Description:** พัฒนาเว็บแอปพลิเคชันเชิง Interactive เพื่อส่งต่อความรู้สึกดีๆ ผ่าน "โหลหัวใจ" ออกแบบมาเพื่อสร้างประสบการณ์ที่น่าประทับใจผ่านอนิเมชั่น **ตั้งใจทำขึ้นเพื่อใช้ในงานแต่งงานของพี่ชาย**
+- ### 🛠️ Tech Stack & Languages
+- ![TypeScript](https://img.shields.io/badge/TypeScript-94.5%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-3.8%25-1572B6?style=flat-square&logo=css3&logoColor=white)
+- ![HTML](https://img.shields.io/badge/HTML-1.7%25-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**ทักษะและเทคโนโลยีที่ได้เรียนรู้ (Skills & Learning):**
+- **Animation & Transitions:** ฝึกฝนการใช้ CSS Transitions และ Framer Motion (หรือ React Transitions) เพื่อสร้างการเคลื่อนไหวของหัวใจและองค์ประกอบต่างๆ ในแอปให้ดูมีชีวิตชีวา
+- **State Management:** จัดการสถานะการโต้ตอบภายในแอปพลิเคชันเพื่อให้การแสดงผลสอดคล้องกับการกดหรือการเลือกของผู้ใช้งานอย่างลื่นไหล
+- **Firebase Backend Integration:** เรียนรู้การจัดการฐานข้อมูลแบบ NoSQL ผ่าน **Cloud Firestore** เพื่อจัดเก็บและดึงข้อมูลการโต้ตอบของผู้ใช้งานแบบ Real-time ช่วยให้การส่งหัวใจแสดงผลได้ทันทีโดยไม่ต้อง Refresh หน้าจอ
+**Repository:** [![Heart Jar](https://img.shields.io/badge/Heart_Jar-GitHub-181717?style=flat-square&logo=github)](https://github.com/Thanaphon06/heart_jar)
+
 ## 🛠️ SKILL
 
 ### 💻 **Languages & Core**
