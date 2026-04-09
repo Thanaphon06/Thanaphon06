@@ -74,7 +74,7 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
 ### 🧠 3. Logic & Algorithm Practice (Java)
 
 - **Description:** ผมชอบที่จะตั้งโจทย์ เพื่อฝึกฝนทักษะความคิด logic ตัวเองในเวลาว่าง โดยจะใช้ภาษา java ในการเขียนฝึก
-- 
+  
 - ### 🛠️ Tech Stack & Languages
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 - ![Algorithm](https://img.shields.io/badge/Focus-Algorithm_&_Logic-blue?style=flat-square)
