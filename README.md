@@ -38,7 +38,23 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
 ---
 ## ⌚️ Free Time Project
 
-### 📱 1. Daily Word Spark
+### 🧠 1. Logic & Algorithm Practice (Java)
+
+- **Description:** I enjoy creating challenges to practice my logical thinking skills in my free time, using the **Java** language for practice.
+  
+- ### 🛠️ Tech Stack & Languages
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+- ![Algorithm](https://img.shields.io/badge/Focus-Algorithm_&_Logic-blue?style=flat-square)
+
+**Skills & Learning:**
+- **Object-Oriented Programming (OOP):** Practiced implementing concepts of Class, Object, Inheritance, and Polymorphism to organize code proportionally.
+- **Problem-Solving Skills:** Developed systematic thinking skills through solving algorithmic challenges and managing basic Data Structures.
+- **Clean Code Practices:** Learned to write Java code with high readability and appropriate memory management.
+- **Logical Thinking:** Practiced analyzing complex conditions and writing programs to solve self-created challenges or those from external learning resources.
+
+**Repository:** [![Practice Java](https://img.shields.io/badge/Practice_Java-GitHub-181717?style=flat-square&logo=github)](https://github.com/Thanaphon06/practice_jav)
+
+### 📱 2. Daily Word Spark
 
 - **Description:**Developed an application to solve English vocabulary learning challenges by collecting 3,000 essential words from **Oxford 3000™** into a format that is easy to practice in daily life.
 - ### 🛠️ Tech Stack & Languages
@@ -54,7 +70,7 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
 
 **Repository:** [![Daily Word Spark](https://img.shields.io/badge/Daily_Word_Spark-GitHub-181717?style=flat-square&logo=github)](https://github.com/Thanaphon06/daily-word-spark)
 
-### ❤️ 2. Heart Jar (Virtual Connection App)
+### ❤️ 3. Heart Jar (Virtual Connection App)
 
 - **Description:** Developed an interactive web application to send good feelings through a virtual "Heart Jar," designed to create an impressive experience through animations. **Specially created for use at my brother's wedding.**
 - ### 🛠️ Tech Stack & Languages
@@ -69,21 +85,7 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
   
 **Repository:** [![Heart Jar](https://img.shields.io/badge/Heart_Jar-GitHub-181717?style=flat-square&logo=github)](https://github.com/Thanaphon06/heart_jar)
 
-### 🧠 3. Logic & Algorithm Practice (Java)
 
-- **Description:** I enjoy creating challenges to practice my logical thinking skills in my free time, using the **Java** language for practice.
-  
-- ### 🛠️ Tech Stack & Languages
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-- ![Algorithm](https://img.shields.io/badge/Focus-Algorithm_&_Logic-blue?style=flat-square)
-
-**Skills & Learning:**
-- **Object-Oriented Programming (OOP):** Practiced implementing concepts of Class, Object, Inheritance, and Polymorphism to organize code proportionally.
-- **Problem-Solving Skills:** Developed systematic thinking skills through solving algorithmic challenges and managing basic Data Structures.
-- **Clean Code Practices:** Learned to write Java code with high readability and appropriate memory management.
-- **Logical Thinking:** Practiced analyzing complex conditions and writing programs to solve self-created challenges or those from external learning resources.
-
-**Repository:** [![Practice Java](https://img.shields.io/badge/Practice_Java-GitHub-181717?style=flat-square&logo=github)](https://github.com/Thanaphon06/practice_jav)
 ## 🛠️ SKILL
 
 ### 💻 **Languages & Core**
