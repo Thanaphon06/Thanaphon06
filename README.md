@@ -85,7 +85,6 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
   
 **Repository:** [![Heart Jar](https://img.shields.io/badge/Heart_Jar-GitHub-181717?style=flat-square&logo=github)](https://github.com/Thanaphon06/heart_jar)
 
-
 ## 🛠️ SKILL
 
 ### 💻 **Languages & Core**
