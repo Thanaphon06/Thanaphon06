@@ -19,6 +19,7 @@ A dedicated Final-Year Information Technology student at King Mongkut's Universi
     - **Energy :** Designed a clean energy system using Solar Cells and Battery Storage, controlling power distribution via ESP32 and Relay Module to the Raspberry Pi 5.
     - **Scheduled Automation:** Implemented an automated scheduling system (Deep Sleep/Wake-up) to maximize energy efficiency.
     - **Data Integration:** Connected and transmitted analytical data through FastAPI for centralized data storage.
+ ![image alt](https://github.com/Thanaphon06/Thanaphon06/blob/main/output_r3.png)
 
 ---
 
